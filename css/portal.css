@@ -3,14 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 html {
-    background-color: #C67ACE;
+    background-color: #585858;
     font-family: 'Libre Baskerville', serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #000; 
+    color: rgb(74, 231, 1); 
     background: #ff0;
 }
 
@@ -18,7 +18,7 @@ h1 {
     font-family: 'Courgette', cursive;
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: rgb(254, 255, 255);
     line-height: 2.5em;
 }
 
@@ -38,7 +38,7 @@ h2,h3 {
 }
 
 a {
-    color:#D8F8B7;
+    color:#b7d9f8;
     text-decoration: none;
 }
 
